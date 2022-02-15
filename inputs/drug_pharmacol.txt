@@ -1,0 +1,351 @@
+1	abemaciclib	1		Cyclin-dependent kinase (CDK) inhibitors (L01EF)	Protein kinase inhibitors (L01E)			L01EF03	L01EF	L01E
+2	abiraterone	0		Other hormone antagonists and related agents (L02BX)	Hormone antagonists and related agents (L02B)			L02BX03	L02BX	L02B
+3	acalabrutinib	1		Bruton's tyrosine kinase (BTK) inhibitors (L01EL)	Protein kinase inhibitors (L01E)			L01EL02	L01EL	L01E
+4	acetaminophen	0	0	Anilides (N02BE)	Other analgesics and antipyretics (N02B)			N02BE01	N02BE	N02B
+5	alectinib	1		Anaplastic lymphoma kinase (ALK) inhibitors (L01ED)	Protein kinase inhibitors (L01E)			L01ED03	L01ED	L01E
+6	alfentanil	1	0	Opioid anesthetics (N01AH)	Anesthetics, general (N01A)	Sedation and respiratory depression	Reduced analgesic effect	N01AH02	N01AH	N01A
+7	alprazolam	0	0	Benzodiazepine derivatives (N05BA)	Anxiolytics (N05B)	Benzodiazepine toxicity	Reduced benzodiazepine effect	N05BA12	N05BA	N05B
+8	alprenolol	0		Beta blocking agents, non-selective (C07AA)	Beta blocking agents (C07A)			C07AA01	C07AA	C07A
+9	amfetamine	0		Centrally acting sympathomimetics (N06BA)	Psychostimulants, agents used for adhd and nootropics (N06B)			N06BA01	N06BA	N06B
+10	amiodarone	1	0	Antiarrhythmics, class III (C01BD)	Antiarrhythmics, class i and iii (C01B)	QT interval prolongation		C01BD01	C01BD	C01B
+11	amitriptyline	1	0	Non-selective monoamine reuptake inhibitors (N06AA)	Antidepressants (N06A)	Serotonin toxicity		N06AA09	N06AA	N06A
+12	amlodipine	0	0	Dihydropyridine derivatives (C08CA)	Selective calcium channel blockers with mainly vascular effects (C08C)	Hypotension	Reduced antihypertensive effect	C08CA01	C08CA	C08C
+13	amodiaquine	0	0	Aminoquinolines (P01BA)	Antimalarials (P01B)			P01BA06	P01BA	P01B
+14	aniline	0	0	(ZZZZZ)	(ZZZZ)			ZZZZZ01	ZZZZZ	ZZZZ
+15	apixaban	0		Direct factor Xa inhibitors (B01AF)	Antithrombotic agents (B01A)			B01AF02	B01AF	B01A
+16	apremilast	0		Selective immunosuppressants (L04AA)	Immunosuppressants (L04A)			L04AA32	L04AA	L04A
+17	aprepitant	0		Other antiemetics (A04AD)	Antiemetics and antinauseants (A04A)			A04AD12	A04AD	A04A
+18	aripiprazole	0	0	Other antipsychotics (N05AX)	Antipsychotics (N05A)		Reduced antipsychotic effect	N05AX12	N05AX	N05A
+19	armodafinil	0		Centrally acting sympathomimetics (N06BA)	Psychostimulants, agents used for adhd and nootropics (N06B)			N06BA13	N06BA	N06B
+20	artemisinin	0	0	Artemisinin and derivatives, plain (P01BE)	Antimalarials (P01B)			P01BE01	P01BE	P01B
+21	astemizole	1	0	Other antihistamines for systemic use (R06AX)	Antihistamines for systemic use (R06A)			R06AX11	R06AX	R06A
+22	atomoxetine	0	0	Centrally acting sympathomimetics (N06BA)	Psychostimulants, agents used for adhd and nootropics (N06B)			N06BA09	N06BA	N06B
+23	atorvastatin	0	0	HMG CoA reductase inhibitors (C10AA)	Lipid modifying agents, plain (C10A)	Myopathy		C10AA05	C10AA	C10A
+24	avanafil	0		Drugs used in erectile dysfunction (G04BE)	Urologicals (G04B)			G04BE10	G04BE	G04B
+25	axitinib	1		Vascular endothelial growth factor receptor (VEGFR) tyrosine kinase inhibitors (L01EK)	Protein kinase inhibitors (L01E)			L01EK01	L01EK	L01E
+26	azilsartan	0		Angiotensin II receptor blockers, plain (C09CA)	Angiotensin ii receptor blockers (arbs), plain (C09C)			C09CA09	C09CA	C09C
+27	benzene	0	0	(ZZZZZ)	(ZZZZ)			ZZZZZ02	ZZZZZ	ZZZZ
+28	boceprevir	0	0	Antivirals for treatment of HCV infections (J05AP)	Direct acting antivirals (J05A)			J05AP03	J05AP	J05A
+29	bosutinib	1		BCR-ABL tyrosine kinase inhibitors (L01EA)	Protein kinase inhibitors (L01E)			L01EA04	L01EA	L01E
+30	brexpiprazole	0		Other antipsychotics (N05AX)	Antipsychotics (N05A)			N05AX16	N05AX	N05A
+31	brigatinib	1		Anaplastic lymphoma kinase (ALK) inhibitors (L01ED)	Protein kinase inhibitors (L01E)			L01ED04	L01ED	L01E
+32	brivaracetam	0		Other antiepileptics (N03AX)	Antiepileptics (N03A)			N03AX23	N03AX	N03A
+33	broccoli	0		(ZZZZZ)	(ZZZZ)			ZZZZZ03	ZZZZZ	ZZZZ
+34	brussel_sprouts	0		(ZZZZZ)	(ZZZZ)			ZZZZZ04	ZZZZZ	ZZZZ
+35	buprenorphine	0	0	Oripavine derivatives (N02AE)	Opioids (N02A)	Sedation and respiratory depression	Reduced analgesic effect	N02AE01	N02AE	N02A
+36	bupropion	0	0	Other antidepressants (N06AX)	Antidepressants (N06A)	Serotonin toxicity		N06AX12	N06AX	N06A
+37	buspirone	0	0	Azaspirodecanedione derivatives (N05BE)	Anxiolytics (N05B)		Reduced benzodiazepine effect	N05BE01	N05BE	N05B
+38	caffeine	0		Xanthine derivatives (N06BC)	Psychostimulants, agents used for adhd and nootropics (N06B)			N06BC01	N06BC	N06B
+39	capecitabine	1		Pyrimidine analogues (L01BC)	Antimetabolites (L01B)			L01BC06	L01BC	L01B
+40	carbamazepine	1	0	Carboxamide derivatives (N03AF)	Antiepileptics (N03A)	Antiepileptic toxicity	Reduced anti-epileptic effect	N03AF01	N03AF	N03A
+41	cariprazine	0		Other antipsychotics (N05AX)	Antipsychotics (N05A)			N05AX15	N05AX	N05A
+42	carisoprodol	0	1	Carbamic acid esters (M03BA)	Muscle relaxants, centrally acting agents (M03B)			M03BA02	M03BA	M03B
+43	carvedilol	0	0	Alpha and beta blocking agents (C07AG)	Beta blocking agents (C07A)		Reduced antihypertensive effect	C07AG02	C07AG	C07A
+44	celecoxib	0	0	Coxibs (M01AH)	Antiinflammatory and antirheumatic products, non-steroids (M01A)			M01AH01	M01AH	M01A
+45	ceritinib	1		Anaplastic lymphoma kinase (ALK) inhibitors (L01ED)	Protein kinase inhibitors (L01E)			L01ED02	L01ED	L01E
+46	cerivastatin	0	0	HMG CoA reductase inhibitors (C10AA)	Lipid modifying agents, plain (C10A)	Myopathy		C10AA06	C10AA	C10A
+47	chargrilled_meat	0	0	(ZZZZZ)	(ZZZZ)			ZZZZZ05	ZZZZZ	ZZZZ
+48	chloramphenicol	0		Amphenicols (J01BA)	Amphenicols (J01B)			J01BA01	J01BA	J01B
+49	chlorpheniramine	0	0	Substituted alkylamines (R06AB)	Antihistamines for systemic use (R06A)			R06AB04	R06AB	R06A
+50	chlorpromazine	0		Phenothiazines with aliphatic side-chain (N05AA)	Antipsychotics (N05A)			N05AA01	N05AA	N05A
+51	chlorzoxazone	0	0	Oxazol, thiazine, and triazine derivatives (M03BB)	Muscle relaxants, centrally acting agents (M03B)			M03BB03	M03BB	M03B
+52	cilostazol	0		Platelet aggregation inhibitors excl. heparin (B01AC)	Antithrombotic agents (B01A)			B01AC23	B01AC	B01A
+53	cimetidine	0	0	H2-receptor antagonists (A02BA)	Drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD) (A02B)			A02BA01	A02BA	A02B
+54	cinacalcet	0		Other anti-parathyroid agents (H05BX)	Anti-parathyroid agents (H05B)			H05BX01	H05BX	H05B
+55	ciprofloxacin	0	0	Fluoroquinolones (J01MA)	Quinolone antibacterials (J01M)			J01MA02	J01MA	J01M
+56	cisapride	1	0	Propulsives (A03FA)	Propulsives (A03F)			A03FA02	A03FA	A03F
+57	citalopram	0	0	Selective serotonin reuptake inhibitors (N06AB)	Antidepressants (N06A)			N06AB04	N06AB	N06A
+58	clarithromycin	0	0	Macrolides (J01FA)	Macrolides, lincosamides and streptogramins (J01F)			J01FA09	J01FA	J01F
+59	clemastine	0		Aminoalkyl ethers (R06AA)	Antihistamines for systemic use (R06A)			R06AA04	R06AA	R06A
+60	clobazam	0		Benzodiazepine derivatives (N05BA)	Anxiolytics (N05B)			N05BA09	N05BA	N05B
+61	clomipramine	1	0	Non-selective monoamine reuptake inhibitors (N06AA)	Antidepressants (N06A)	Serotonin toxicity		N06AA04	N06AA	N06A
+62	clonidine	1		Imidazoline receptor agonists (C02AC)	Antiadrenergic agents, centrally acting (C02A)			C02AC01	C02AC	C02A
+63	clopidogrel	0	1	Platelet aggregation inhibitors excl. heparin (B01AC)	Antithrombotic agents (B01A)		Reduced anticoagulant effect	B01AC04	B01AC	B01A
+64	clozapine	0	0	Diazepines, oxazepines and thiazepines (N05AH)	Antipsychotics (N05A)		Reduced antipsychotic effect	N05AH02	N05AH	N05A
+65	cobimetinib	1		Mitogen-activated protein kinase (MEK) inhibitors (L01EE)	Protein kinase inhibitors (L01E)			L01EE02	L01EE	L01E
+66	cocaine	0		Esters of benzoic acid (N01BC)	Anesthetics, local (N01B)			N01BC01	N01BC	N01B
+67	codeine	0	1	Opium alkaloids and derivatives (R05DA)	Cough suppressants, excl. combinations with expectorants (R05D)			R05DA04	R05DA	R05D
+68	colchicine	0		Preparations with no effect on uric acid metabolism (M04AC)	Antigout preparations (M04A)			M04AC01	M04AC	M04A
+69	copanlisib	1		Phosphatidylinositol-3-kinase (Pi3K) inhibitors (L01EM)	Protein kinase inhibitors (L01E)			L01EM02	L01EM	L01E
+70	crizotinib	1		Anaplastic lymphoma kinase (ALK) inhibitors (L01ED)	Protein kinase inhibitors (L01E)			L01ED01	L01ED	L01E
+71	cyclobenzaprine	0	0	Other centrally acting agents (M03BX)	Muscle relaxants, centrally acting agents (M03B)			M03BX08	M03BX	M03B
+72	cyclophosphamide	1	1	Nitrogen mustard analogues (L01AA)	Alkylating agents (L01A)			L01AA01	L01AA	L01A
+73	cyclosporine	1	0	Calcineurin inhibitors (L04AD)	Immunosuppressants (L04A)	Immunosuppressant toxicity		L04AD01	L04AD	L04A
+74	dabrafenib	1		B-Raf serine-threonine kinase (BRAF) inhibitors (L01EC)	Protein kinase inhibitors (L01E)			L01EC02	L01EC	L01E
+75	daclatasvir	0		Antivirals for treatment of HCV infections (J05AP)	Direct acting antivirals (J05A)			J05AP07	J05AP	J05A
+76	dapsone	0		Drugs for treatment of lepra (J04BA)	Drugs for treatment of lepra (J04B)			J04BA02	J04BA	J04B
+77	debrisoquine	0		Guanidine derivatives (C02CC)	Antiadrenergic agents, peripherally acting (C02C)			C02CC04	C02CC	C02C
+78	deferasirox	0		Iron chelating agents (V03AC)	All other therapeutic products (V03A)			V03AC03	V03AC	V03A
+79	deflazacort	0		Glucocorticoids (H02AB)	Corticosteroids for systemic use, plain (H02A)			H02AB13	H02AB	H02A
+80	delavirdine	0		Non-nucleoside reverse transcriptase inhibitors (J05AG)	Direct acting antivirals (J05A)			J05AG02	J05AG	J05A
+81	desipramine	1	0	Non-selective monoamine reuptake inhibitors (N06AA)	Antidepressants (N06A)	Serotonin toxicity		N06AA01	N06AA	N06A
+82	dexamethasone	0		Glucocorticoids (H02AB)	Corticosteroids for systemic use, plain (H02A)			H02AB02	H02AB	H02A
+83	dexfenfluramine	0		Centrally acting antiobesity products (A08AA)	Antiobesity preparations, excl. diet products (A08A)			A08AA04	A08AA	A08A
+84	dextromethorphan	0	1	Opium alkaloids and derivatives (R05DA)	Cough suppressants, excl. combinations with expectorants (R05D)			R05DA09	R05DA	R05D
+85	diazepam	0	0	Benzodiazepine derivatives (N05BA)	Anxiolytics (N05B)	Benzodiazepine toxicity	Reduced benzodiazepine effect	N05BA01	N05BA	N05B
+86	diclofenac	0	0	Acetic acid derivatives and related substances (M01AB)	Antiinflammatory and antirheumatic products, non-steroids (M01A)			M01AB05	M01AB	M01A
+87	diltiazem	0	0	Benzothiazepine derivatives (C08DB)	Selective calcium channel blockers with direct cardiac effects (C08D)	AV block, bradycardia, hypotension		C08DB01	C08DB	C08D
+88	dimethyl_formamide	0	0	(ZZZZZ)	(ZZZZ)			ZZZZZ06	ZZZZZ	ZZZZ
+89	diphenhydramine	0	0	Aminoalkyl ethers (R06AA)	Antihistamines for systemic use (R06A)			R06AA02	R06AA	R06A
+90	disulfiram	0	0	Drugs used in alcohol dependence (N07BB)	Drugs used in addictive disorders (N07B)			N07BB01	N07BB	N07B
+91	docetaxel	1		Taxanes (L01CD)	Plant alkaloids and other natural products (L01C)			L01CD02	L01CD	L01C
+92	dolutegravir	0		Integrase inhibitors (J05AJ)	Direct acting antivirals (J05A)			J05AJ03	J05AJ	J05A
+93	domperidone	0		Propulsives (A03FA)	Propulsives (A03F)			A03FA03	A03FA	A03F
+94	donepezil	0		Anticholinesterases (N06DA)	Anti-dementia drugs (N06D)			N06DA02	N06DA	N06D
+95	doxepin	0	0	Non-selective monoamine reuptake inhibitors (N06AA)	Antidepressants (N06A)	Serotonin toxicity		N06AA12	N06AA	N06A
+96	doxorubicin	1		Anthracyclines and related substances (L01DB)	Cytotoxic antibiotics and related substances (L01D)			L01DB01	L01DB	L01D
+97	duloxetine	0	0	Other antidepressants (N06AX)	Antidepressants (N06A)	Serotonin toxicity		N06AX21	N06AX	N06A
+98	efavirenz	0	0	Non-nucleoside reverse transcriptase inhibitors (J05AG)	Direct acting antivirals (J05A)			J05AG03	J05AG	J05A
+99	elagolix	0		Anti-gonadotropin-releasing hormones (H01CC)	Hypothalamic hormones (H01C)			H01CC03	H01CC	H01C
+100	elbasvir	0		Antivirals for treatment of HCV infections (J05AP)	Direct acting antivirals (J05A)			J05AP10	J05AP	J05A
+101	eliglustat	0		Various alimentary tract and metabolism products (A16AX)	Other alimentary tract and metabolism products (A16A)			A16AX10	A16AX	A16A
+102	encainide	0		Antiarrhythmics, class Ic (C01BC)	Antiarrhythmics, class i and iii (C01B)			C01BC08	C01BC	C01B
+103	enflurane	0	0	Halogenated hydrocarbons (N01AB)	Anesthetics, general (N01A)			N01AB04	N01AB	N01A
+104	entrectinib	1		Other protein kinase inhibitors (L01EX)	Protein kinase inhibitors (L01E)			L01EX14	L01EX	L01E
+105	enzalutamide	0		Anti-androgens (L02BB)	Hormone antagonists and related agents (L02B)			L02BB04	L02BB	L02B
+106	eplerenone	0		Aldosterone antagonists (C03DA)	Potassium-sparing agents (C03D)			C03DA04	C03DA	C03D
+107	ergotamine	1		Ergot alkaloids (N02CA)	Antimigraine preparations (N02C)			N02CA02	N02CA	N02C
+108	erythromycin	0	0	Macrolides (J01FA)	Macrolides, lincosamides and streptogramins (J01F)			J01FA01	J01FA	J01F
+109	escitalopram	0		Selective serotonin reuptake inhibitors (N06AB)	Antidepressants (N06A)			N06AB10	N06AB	N06A
+110	eslicarbazepine	0		Carboxamide derivatives (N03AF)	Antiepileptics (N03A)			N03AF04	N03AF	N03A
+111	esomeprazole	0		Proton pump inhibitors (A02BC)	Drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD) (A02B)			A02BC05	A02BC	A02B
+112	estradiol	0	0	Natural and semisynthetic estrogens, plain (G03CA)	Estrogens (G03C)			G03CA03	G03CA	G03C
+113	ethanol	0	0	Other antiseptics and disinfectants (D08AX)	Antiseptics and disinfectants (D08A)			D08AX08	D08AX	D08A
+114	felbamate	0	0	Other antiepileptics (N03AX)	Antiepileptics (N03A)	Antiepileptic toxicity	Reduced anti-epileptic effect	N03AX10	N03AX	N03A
+115	felodipine	0	0	Dihydropyridine derivatives (C08CA)	Selective calcium channel blockers with mainly vascular effects (C08C)	Hypotension	Reduced antihypertensive effect	C08CA02	C08CA	C08C
+116	fenofibrate	0		Fibrates (C10AB)	Lipid modifying agents, plain (C10A)			C10AB05	C10AB	C10A
+117	fentanyl	0		Opioid anesthetics (N01AH)	Anesthetics, general (N01A)			N01AH01	N01AH	N01A
+118	finasteride	0		Testosterone-5-alpha reductase inhibitors (G04CB)	Drugs used in benign prostatic hypertrophy (G04C)			G04CB01	G04CB	G04C
+119	flecainide	1	0	Antiarrhythmics, class Ic (C01BC)	Antiarrhythmics, class i and iii (C01B)	QT interval prolongation		C01BC04	C01BC	C01B
+120	flibanserin	0		Other gynecologicals (G02CX)	Other gynecologicals (G02C)			G02CX02	G02CX	G02C
+121	fluconazole	0	0	Triazole derivatives (J02AC)	Antimycotics for systemic use (J02A)			J02AC01	J02AC	J02A
+122	fluoxetine	0	0	Selective serotonin reuptake inhibitors (N06AB)	Antidepressants (N06A)	Serotonin toxicity		N06AB03	N06AB	N06A
+123	fluvastatin	0	0	HMG CoA reductase inhibitors (C10AA)	Lipid modifying agents, plain (C10A)	Myopathy		C10AA04	C10AA	C10A
+124	fluvoxamine	0	0	Selective serotonin reuptake inhibitors (N06AB)	Antidepressants (N06A)	Serotonin toxicity		N06AB08	N06AB	N06A
+125	gemfibrozil	0	0	Fibrates (C10AB)	Lipid modifying agents, plain (C10A)			C10AB04	C10AB	C10A
+126	gestodene	0		Progestogens and estrogens, fixed combinations (G03AA)	Hormonal contraceptives for systemic use (G03A)			G03AA10	G03AA	G03A
+127	glimepiride	0		Sulfonylureas (A10BB)	Blood glucose lowering drugs, excl. insulins (A10B)			A10BB12	A10BB	A10B
+128	glipizide	0	0	Sulfonylureas (A10BB)	Blood glucose lowering drugs, excl. insulins (A10B)	Hypoglycemia		A10BB07	A10BB	A10B
+129	glyburide	0	0	Sulfonylureas (A10BB)	Blood glucose lowering drugs, excl. insulins (A10B)	Hypoglycemia		A10BB01	A10BB	A10B
+130	grapefruit_juice	0	0	(ZZZZZ)	(ZZZZ)			ZZZZZ07	ZZZZZ	ZZZZ
+131	halofantrine	0		Other antimalarials (P01BX)	Antimalarials (P01B)			P01BX01	P01BX	P01B
+132	haloperidol	0	0	Butyrophenone derivatives (N05AD)	Antipsychotics (N05A)		Reduced antipsychotic effect	N05AD01	N05AD	N05A
+133	halothane	0	0	Halogenated hydrocarbons (N01AB)	Anesthetics, general (N01A)			N01AB01	N01AB	N01A
+134	hexobarbital	0		Barbiturates, plain (N01AF)	Anesthetics, general (N01A)			N01AF02	N01AF	N01A
+135	hydrocortisone	0		Glucocorticoids (H02AB)	Corticosteroids for systemic use, plain (H02A)			H02AB09	H02AB	H02A
+136	hydroxyzine	0		Diphenylmethane derivatives (N05BB)	Anxiolytics (N05B)			N05BB01	N05BB	N05B
+137	ibrutinib	0		Bruton's tyrosine kinase (BTK) inhibitors (L01EL)	Protein kinase inhibitors (L01E)			L01EL01	L01EL	L01E
+138	ibuprofen	0	0	Propionic acid derivatives (M01AE)	Antiinflammatory and antirheumatic products, non-steroids (M01A)			M01AE01	M01AE	M01A
+139	idelalisib	1		Phosphatidylinositol-3-kinase (Pi3K) inhibitors (L01EM)	Protein kinase inhibitors (L01E)			L01EM01	L01EM	L01E
+140	ifosfamide	1	0	Nitrogen mustard analogues (L01AA)	Alkylating agents (L01A)			L01AA06	L01AA	L01A
+141	imatinib	0	0	 (L01XE)	Other antineoplastic agents (L01X)			L01XE01	L01XE	L01X
+142	imipramine	1	0	Non-selective monoamine reuptake inhibitors (N06AA)	Antidepressants (N06A)	Serotonin toxicity		N06AA02	N06AA	N06A
+143	indacaterol	0		Selective beta-2-adrenoreceptor agonists (R03AC)	Adrenergics, inhalants (R03A)			R03AC18	R03AC	R03A
+144	indinavir	0	0	Protease inhibitors (J05AE)	Direct acting antivirals (J05A)			J05AE02	J05AE	J05A
+145	indometacin	0		Acetic acid derivatives and related substances (M01AB)	Antiinflammatory and antirheumatic products, non-steroids (M01A)			M01AB01	M01AB	M01A
+146	insulin	0		Insulins and analogues for injection, fast-acting (A10AB)	Insulins and analogues (A10A)			A10AB01	A10AB	A10A
+147	irbesartan	0	0	Angiotensin II receptor blockers, plain (C09CA)	Angiotensin ii receptor blockers (arbs), plain (C09C)		Reduced antihypertensive effect	C09CA04	C09CA	C09C
+148	irinotecan	1		Topoisomerase 1 (TOP1) inhibitors (L01CE)	Plant alkaloids and other natural products (L01C)			L01CE02	L01CE	L01C
+149	isavuconazole	0		Triazole derivatives (J02AC)	Antimycotics for systemic use (J02A)			J02AC05	J02AC	J02A
+150	isoflurane	0	0	Halogenated hydrocarbons (N01AB)	Anesthetics, general (N01A)			N01AB06	N01AB	N01A
+151	isoniazid	0	0	Hydrazides (J04AC)	Drugs for treatment of tuberculosis (J04A)			J04AC01	J04AC	J04A
+152	itraconazole	0	0	Triazole derivatives (J02AC)	Antimycotics for systemic use (J02A)			J02AC02	J02AC	J02A
+153	ivabradine	0		Other cardiac preparations (C01EB)	Other cardiac preparations (C01E)			C01EB17	C01EB	C01E
+154	ivacaftor	0		Other respiratory system products (R07AX)	Other respiratory system products (R07A)			R07AX02	R07AX	R07A
+155	ketamine	0	0	Other general anesthetics (N01AX)	Anesthetics, general (N01A)			N01AX03	N01AX	N01A
+156	ketoconazole	0	0	Imidazole derivatives (J02AB)	Antimycotics for systemic use (J02A)			J02AB02	J02AB	J02A
+157	labetalol	0	0	Alpha and beta blocking agents (C07AG)	Beta blocking agents (C07A)		Reduced antihypertensive effect	C07AG01	C07AG	C07A
+158	lansoprazole	0	0	Proton pump inhibitors (A02BC)	Drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD) (A02B)			A02BC03	A02BC	A02B
+159	lapatinib	0		Human epidermal growth factor receptor 2 (HER2) tyrosine kinase inhibitors (L01EH)	Protein kinase inhibitors (L01E)			L01EH01	L01EH	L01E
+160	lenvatinib	0		Other protein kinase inhibitors (L01EX)	Protein kinase inhibitors (L01E)			L01EX08	L01EX	L01E
+161	lercanidipine	0		Dihydropyridine derivatives (C08CA)	Selective calcium channel blockers with mainly vascular effects (C08C)			C08CA13	C08CA	C08C
+162	lesinurad	0		Preparations increasing uric acid excretion (M04AB)	Antigout preparations (M04A)			M04AB05	M04AB	M04A
+163	letermovir	0		Other antivirals (J05AX)	Direct acting antivirals (J05A)			J05AX18	J05AX	J05A
+164	levacetylmethadol	1		Drugs used in opioid dependence (N07BC)	Drugs used in addictive disorders (N07B)			N07BC03	N07BC	N07B
+165	levomepromazine	0		Phenothiazines with aliphatic side-chain (N05AA)	Antipsychotics (N05A)			N05AA02	N05AA	N05A
+166	lidocaine	0		Antiarrhythmics, class Ib (C01BB)	Antiarrhythmics, class i and iii (C01B)			C01BB01	C01BB	C01B
+167	linagliptin	0		Dipeptidyl peptidase 4 (DPP-4) inhibitors (A10BH)	Blood glucose lowering drugs, excl. insulins (A10B)			A10BH05	A10BH	A10B
+168	lorcaserin	0		Centrally acting antiobesity products (A08AA)	Antiobesity preparations, excl. diet products (A08A)			A08AA11	A08AA	A08A
+169	lorlatinib	0		Anaplastic lymphoma kinase (ALK) inhibitors (L01ED)	Protein kinase inhibitors (L01E)			L01ED05	L01ED	L01E
+170	lornoxicam	0		Oxicams (M01AC)	Antiinflammatory and antirheumatic products, non-steroids (M01A)			M01AC05	M01AC	M01A
+171	losartan	0	1	Angiotensin II receptor blockers, plain (C09CA)	Angiotensin ii receptor blockers (arbs), plain (C09C)		Reduced antihypertensive effect	C09CA01	C09CA	C09C
+172	lovastatin	0	1	HMG CoA reductase inhibitors (C10AA)	Lipid modifying agents, plain (C10A)	Myopathy		C10AA02	C10AA	C10A
+173	luliconazole	0		Imidazole and triazole derivatives (D01AC)	Antifungals for topical use (D01A)			D01AC18	D01AC	D01A
+174	macitentan	0		Antihypertensive for pulmonary arterial hypertension (C02KX)	Other antihypertensives (C02K)			C02KX04	C02KX	C02K
+175	meloxicam	0		Oxicams (M01AC)	Antiinflammatory and antirheumatic products, non-steroids (M01A)			M01AC06	M01AC	M01A
+176	meperidine	0	0	Phenylpiperidine derivatives (N02AB)	Opioids (N02A)	Sedation and respiratory depression	Reduced analgesic effect	N02AB02	N02AB	N02A
+177	mephenytoin	0		Hydantoin derivatives (N03AB)	Antiepileptics (N03A)			N03AB04	N03AB	N03A
+178	methadone	0	0	Drugs used in opioid dependence (N07BC)	Drugs used in addictive disorders (N07B)			N07BC02	N07BC	N07B
+179	methoxsalen	0		Psoralens for topical use (D05AD)	Antipsoriatics for topical use (D05A)			D05AD02	D05AD	D05A
+180	methoxyflurane	0	0	Other analgesics and antipyretics (N02BG)	Other analgesics and antipyretics (N02B)			N02BG09	N02BG	N02B
+181	methylphenobarbital	0		Barbiturates and derivatives (N03AA)	Antiepileptics (N03A)			N03AA01	N03AA	N03A
+182	metoclopramide	0		Propulsives (A03FA)	Propulsives (A03F)			A03FA01	A03FA	A03F
+183	metoprolol	0	0	Beta blocking agents, selective (C07AB)	Beta blocking agents (C07A)		Reduced antihypertensive effect	C07AB02	C07AB	C07A
+184	metronidazole	0	0	Imidazole derivatives (J01XD)	Other antibacterials (J01X)			J01XD01	J01XD	J01X
+185	mexiletine	0	0	Antiarrhythmics, class Ib (C01BB)	Antiarrhythmics, class i and iii (C01B)	QT interval prolongation		C01BB02	C01BB	C01B
+186	mibefradil	0		Other selective calcium channel blockers with mainly vascular effects (C08CX)	Selective calcium channel blockers with mainly vascular effects (C08C)			C08CX01	C08CX	C08C
+187	midazolam	0	0	Benzodiazepine derivatives (N05CD)	Hypnotics and sedatives (N05C)	Benzodiazepine toxicity	Reduced benzodiazepine effect	N05CD08	N05CD	N05C
+188	midodrine	0		Adrenergic and dopaminergic agents (C01CA)	Cardiac stimulants excl. cardiac glycosides (C01C)			C01CA17	C01CA	C01C
+189	mifepristone	0		Progesterone receptor modulators (G03XB)	Other sex hormones and modulators of the genital system (G03X)			G03XB01	G03XB	G03X
+190	minaprine	0		Other antidepressants (N06AX)	Antidepressants (N06A)			N06AX07	N06AX	N06A
+191	moclobemide	0		Monoamine oxidase A inhibitors (N06AG)	Antidepressants (N06A)			N06AG02	N06AG	N06A
+192	modafinil	0		Centrally acting sympathomimetics (N06BA)	Psychostimulants, agents used for adhd and nootropics (N06B)			N06BA07	N06BA	N06B
+193	montelukast	0	0	Leukotriene receptor antagonists (R03DC)	Other systemic drugs for obstructive airway diseases (R03D)			R03DC03	R03DC	R03D
+194	nabumetone	0	1	Other antiinflammatory and antirheumatic agents, non-steroids (M01AX)	Antiinflammatory and antirheumatic products, non-steroids (M01A)			M01AX01	M01AX	M01A
+195	nafcillin	0		Beta-lactamase resistant penicillins (J01CF)	Beta-lactam antibacterials, penicillins (J01C)			J01CF06	J01CF	J01C
+196	naldemedine	0		Peripheral opioid receptor antagonist (A06AH)	Drugs for constipation (A06A)			A06AH05	A06AH	A06A
+197	naloxegol	0		Peripheral opioid receptor antagonist (A06AH)	Drugs for constipation (A06A)			A06AH03	A06AH	A06A
+198	naproxen	0	0	Propionic acid derivatives (M01AE)	Antiinflammatory and antirheumatic products, non-steroids (M01A)			M01AE02	M01AE	M01A
+199	nateglinide	0		Other blood glucose lowering drugs, excl. insulins (A10BX)	Blood glucose lowering drugs, excl. insulins (A10B)			A10BX03	A10BX	A10B
+200	nebivolol	0		Beta blocking agents, selective (C07AB)	Beta blocking agents (C07A)			C07AB12	C07AB	C07A
+201	nefazodone	0	0	Other antidepressants (N06AX)	Antidepressants (N06A)	Serotonin toxicity		N06AX06	N06AX	N06A
+202	nelfinavir	0	0	Protease inhibitors (J05AE)	Direct acting antivirals (J05A)			J05AE04	J05AE	J05A
+203	neratinib	1		Human epidermal growth factor receptor 2 (HER2) tyrosine kinase inhibitors (L01EH)	Protein kinase inhibitors (L01E)			L01EH02	L01EH	L01E
+204	nevirapine	0	0	Non-nucleoside reverse transcriptase inhibitors (J05AG)	Direct acting antivirals (J05A)			J05AG01	J05AG	J05A
+205	nifedipine	0	0	Dihydropyridine derivatives (C08CA)	Selective calcium channel blockers with mainly vascular effects (C08C)	Hypotension	Reduced antihypertensive effect	C08CA05	C08CA	C08C
+206	nilutamide	0		Anti-androgens (L02BB)	Hormone antagonists and related agents (L02B)			L02BB02	L02BB	L02B
+207	nisoldipine	0	0	Dihydropyridine derivatives (C08CA)	Selective calcium channel blockers with mainly vascular effects (C08C)	Hypotension	Reduced antihypertensive effect	C08CA07	C08CA	C08C
+208	nitrendipine	0	0	Dihydropyridine derivatives (C08CA)	Selective calcium channel blockers with mainly vascular effects (C08C)	Hypotension	Reduced antihypertensive effect	C08CA08	C08CA	C08C
+209	norethisterone	0		Progestogens (G03AC)	Hormonal contraceptives for systemic use (G03A)			G03AC01	G03AC	G03A
+210	norfloxacin	0		Fluoroquinolones (J01MA)	Quinolone antibacterials (J01M)			J01MA06	J01MA	J01M
+211	nortriptyline	1		Non-selective monoamine reuptake inhibitors (N06AA)	Antidepressants (N06A)			N06AA10	N06AA	N06A
+212	olanzapine	0	0	Diazepines, oxazepines and thiazepines (N05AH)	Antipsychotics (N05A)		Reduced antipsychotic effect	N05AH03	N05AH	N05A
+213	olaparib	1		Poly (ADP-ribose) polymerase (PARP) inhibitors (L01XK)	Other antineoplastic agents (L01X)			L01XK01	L01XK	L01X
+214	olodaterol	0		Selective beta-2-adrenoreceptor agonists (R03AC)	Adrenergics, inhalants (R03A)			R03AC19	R03AC	R03A
+215	omeprazole	0	0	Proton pump inhibitors (A02BC)	Drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD) (A02B)			A02BC01	A02BC	A02B
+216	ondansetron	0	0	Serotonin (5HT3) antagonists (A04AA)	Antiemetics and antinauseants (A04A)			A04AA01	A04AA	A04A
+217	oritavancin	0		Glycopeptide antibacterials (J01XA)	Other antibacterials (J01X)			J01XA05	J01XA	J01X
+218	osimertinib	1		Epidermal growth factor receptor (EGFR) tyrosine kinase inhibitors (L01EB)	Protein kinase inhibitors (L01E)			L01EB04	L01EB	L01E
+219	ospemifene	0		Selective estrogen receptor modulators (G03XC)	Other sex hormones and modulators of the genital system (G03X)			G03XC05	G03XC	G03X
+220	oxcarbazepine	0		Carboxamide derivatives (N03AF)	Antiepileptics (N03A)			N03AF02	N03AF	N03A
+221	oxycodone	0	0	Natural opium alkaloids (N02AA)	Opioids (N02A)	Sedation and respiratory depression	Reduced analgesic effect	N02AA05	N02AA	N02A
+222	paclitaxel	1	0	Taxanes (L01CD)	Plant alkaloids and other natural products (L01C)			L01CD01	L01CD	L01C
+223	palbociclib	1		Cyclin-dependent kinase (CDK) inhibitors (L01EF)	Protein kinase inhibitors (L01E)			L01EF01	L01EF	L01E
+224	palonosetron	0		Serotonin (5HT3) antagonists (A04AA)	Antiemetics and antinauseants (A04A)			A04AA05	A04AA	A04A
+225	panobinostat	1		Histone deacetylase (HDAC) inhibitors (L01XH)	Other antineoplastic agents (L01X)			L01XH03	L01XH	L01X
+226	pantoprazole	0	0	Proton pump inhibitors (A02BC)	Drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD) (A02B)			A02BC02	A02BC	A02B
+227	paroxetine	0	0	Selective serotonin reuptake inhibitors (N06AB)	Antidepressants (N06A)	Serotonin toxicity		N06AB05	N06AB	N06A
+228	perampanel	0		Other antiepileptics (N03AX)	Antiepileptics (N03A)			N03AX22	N03AX	N03A
+229	perhexiline	0		Other non-selective calcium channel blockers (C08EX)	Non-selective calcium channel blockers (C08E)			C08EX02	C08EX	C08E
+230	perphenazine	0		Phenothiazines with piperazine structure (N05AB)	Antipsychotics (N05A)			N05AB03	N05AB	N05A
+231	phenacetin	0		Anilides (N02BE)	Other analgesics and antipyretics (N02B)			N02BE03	N02BE	N02B
+232	phenformin	0		Biguanides (A10BA)	Blood glucose lowering drugs, excl. insulins (A10B)			A10BA01	A10BA	A10B
+233	phenobarbital	1	0	Barbiturates and derivatives (N03AA)	Antiepileptics (N03A)	Antiepileptic toxicity	Reduced anti-epileptic effect	N03AA02	N03AA	N03A
+234	phenylbutazone	0		Butylpyrazolidines (M01AA)	Antiinflammatory and antirheumatic products, non-steroids (M01A)			M01AA01	M01AA	M01A
+235	phenytoin	1	0	Hydantoin derivatives (N03AB)	Antiepileptics (N03A)	Antiepileptic toxicity	Reduced anti-epileptic effect	N03AB02	N03AB	N03A
+236	pimavanserin	0		Other antipsychotics (N05AX)	Antipsychotics (N05A)			N05AX17	N05AX	N05A
+237	pimozide	1	0	Diphenylbutylpiperidine derivatives (N05AG)	Antipsychotics (N05A)		Reduced antipsychotic effect	N05AG02	N05AG	N05A
+238	pioglitazone	0	0	Thiazolidinediones (A10BG)	Blood glucose lowering drugs, excl. insulins (A10B)	Hypoglycemia		A10BG03	A10BG	A10B
+239	pirfenidone	0		Other immunosuppressants (L04AX)	Immunosuppressants (L04A)			L04AX05	L04AX	L04A
+240	piroxicam	0	0	Oxicams (M01AC)	Antiinflammatory and antirheumatic products, non-steroids (M01A)			M01AC01	M01AC	M01A
+241	pomalidomide	1		Other immunosuppressants (L04AX)	Immunosuppressants (L04A)			L04AX06	L04AX	L04A
+242	ponatinib	1		BCR-ABL tyrosine kinase inhibitors (L01EA)	Protein kinase inhibitors (L01E)			L01EA05	L01EA	L01E
+243	prednisone	0		Glucocorticoids (H02AB)	Corticosteroids for systemic use, plain (H02A)			H02AB07	H02AB	H02A
+244	primidone	0		Barbiturates and derivatives (N03AA)	Antiepileptics (N03A)			N03AA03	N03AA	N03A
+245	progesterone	0		Pregnen (4) derivatives (G03DA)	Progestogens (G03D)			G03DA04	G03DA	G03D
+246	proguanil	0	0	Biguanides (P01BB)	Antimalarials (P01B)			P01BB01	P01BB	P01B
+247	promethazine	0		Phenothiazine derivatives (R06AD)	Antihistamines for systemic use (R06A)			R06AD02	R06AD	R06A
+248	propafenone	0	0	Antiarrhythmics, class Ic (C01BC)	Antiarrhythmics, class i and iii (C01B)	QT interval prolongation		C01BC03	C01BC	C01B
+249	propofol	0	0	Other general anesthetics (N01AX)	Anesthetics, general (N01A)			N01AX10	N01AX	N01A
+250	propranolol	0		Beta blocking agents, non-selective (C07AA)	Beta blocking agents (C07A)			C07AA05	C07AA	C07A
+251	quetiapine	0		Diazepines, oxazepines and thiazepines (N05AH)	Antipsychotics (N05A)			N05AH04	N05AH	N05A
+252	quinidine	1	0	Antiarrhythmics, class Ia (C01BA)	Antiarrhythmics, class i and iii (C01B)	QT interval prolongation		C01BA01	C01BA	C01B
+253	quinine	0	0	Methanolquinolines (P01BC)	Antimalarials (P01B)			P01BC01	P01BC	P01B
+254	ranitidine	0		H2-receptor antagonists (A02BA)	Drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD) (A02B)			A02BA02	A02BA	A02B
+255	regorafenib	1		Other protein kinase inhibitors (L01EX)	Protein kinase inhibitors (L01E)			L01EX05	L01EX	L01E
+256	repaglinide	0	0	Other blood glucose lowering drugs, excl. insulins (A10BX)	Blood glucose lowering drugs, excl. insulins (A10B)	Hypoglycemia		A10BX02	A10BX	A10B
+257	ribociclib	1		Cyclin-dependent kinase (CDK) inhibitors (L01EF)	Protein kinase inhibitors (L01E)			L01EF02	L01EF	L01E
+258	rifabutin	0	0	Antibiotics (J04AB)	Drugs for treatment of tuberculosis (J04A)			J04AB04	J04AB	J04A
+259	rifampin	0	0	Antibiotics (J04AB)	Drugs for treatment of tuberculosis (J04A)			J04AB02	J04AB	J04A
+260	rilpivirine	0		Non-nucleoside reverse transcriptase inhibitors (J05AG)	Direct acting antivirals (J05A)			J05AG05	J05AG	J05A
+261	riluzole	0	0	Other nervous system drugs (N07XX)	Other nervous system drugs (N07X)			N07XX02	N07XX	N07X
+262	risperidone	0	0	Other antipsychotics (N05AX)	Antipsychotics (N05A)		Reduced antipsychotic effect	N05AX08	N05AX	N05A
+263	ritonavir	0	0	Protease inhibitors (J05AE)	Direct acting antivirals (J05A)			J05AE03	J05AE	J05A
+264	rivaroxaban	0		Direct factor Xa inhibitors (B01AF)	Antithrombotic agents (B01A)			B01AF01	B01AF	B01A
+265	roflumilast	0		Other systemic drugs for obstructive airway diseases (R03DX)	Other systemic drugs for obstructive airway diseases (R03D)			R03DX07	R03DX	R03D
+266	rolapitant	0		Other antiemetics (A04AD)	Antiemetics and antinauseants (A04A)			A04AD14	A04AD	A04A
+267	romidepsin	1		Histone deacetylase (HDAC) inhibitors (L01XH)	Other antineoplastic agents (L01X)			L01XH02	L01XH	L01X
+268	ropivacaine	0		Amides (N01BB)	Anesthetics, local (N01B)			N01BB09	N01BB	N01B
+269	rosiglitazone	0	0	Thiazolidinediones (A10BG)	Blood glucose lowering drugs, excl. insulins (A10B)	Hypoglycemia		A10BG02	A10BG	A10B
+270	rucaparib	1		Poly (ADP-ribose) polymerase (PARP) inhibitors (L01XK)	Other antineoplastic agents (L01X)			L01XK03	L01XK	L01X
+271	ruxolitinib	1		Janus-associated kinase (JAK) inhibitors (L01EJ)	Protein kinase inhibitors (L01E)			L01EJ01	L01EJ	L01E
+272	salmeterol	0		Selective beta-2-adrenoreceptor agonists (R03AC)	Adrenergics, inhalants (R03A)			R03AC12	R03AC	R03A
+273	saquinavir	0	0	Protease inhibitors (J05AE)	Direct acting antivirals (J05A)			J05AE01	J05AE	J05A
+274	secobarbital	0		Barbiturates, plain (N05CA)	Hypnotics and sedatives (N05C)			N05CA06	N05CA	N05C
+275	selegiline	0	0	Monoamine oxidase B inhibitors (N04BD)	Dopaminergic agents (N04B)			N04BD01	N04BD	N04B
+276	selexipag	0		Platelet aggregation inhibitors excl. heparin (B01AC)	Antithrombotic agents (B01A)			B01AC27	B01AC	B01A
+277	sertraline	0		Selective serotonin reuptake inhibitors (N06AB)	Antidepressants (N06A)			N06AB06	N06AB	N06A
+278	sevoflurane	0	0	Halogenated hydrocarbons (N01AB)	Anesthetics, general (N01A)			N01AB08	N01AB	N01A
+279	sildenafil	0	0	Drugs used in erectile dysfunction (G04BE)	Urologicals (G04B)			G04BE03	G04BE	G04B
+280	simeprevir	0		Antivirals for treatment of HCV infections (J05AP)	Direct acting antivirals (J05A)			J05AP05	J05AP	J05A
+281	simvastatin	0	1	HMG CoA reductase inhibitors (C10AA)	Lipid modifying agents, plain (C10A)	Myopathy		C10AA01	C10AA	C10A
+282	sirolimus	1	0	Selective immunosuppressants (L04AA)	Immunosuppressants (L04A)	Immunosuppressant toxicity		L04AA10	L04AA	L04A
+283	sonidegib	1		Hedgehog pathway inhibitors (L01XJ)	Other antineoplastic agents (L01X)			L01XJ02	L01XJ	L01X
+284	sorafenib	1		 (L01XE)	Other antineoplastic agents (L01X)			L01XE05	L01XE	L01X
+285	sparteine	0		Antiarrhythmics, class Ia (C01BA)	Antiarrhythmics, class i and iii (C01B)			C01BA04	C01BA	C01B
+286	starfruit	0		(ZZZZZ)	(ZZZZ)			ZZZZZ08	ZZZZZ	ZZZZ
+287	sulfamethoxazole	0	0	Intermediate-acting sulfonamides (J01EC)	Sulfonamides and trimethoprim (J01E)			J01EC01	J01EC	J01E
+288	sulfaphenazole	0		Long-acting sulfonamides (J01ED)	Sulfonamides and trimethoprim (J01E)			J01ED08	J01ED	J01E
+289	sunitinib	1		 (L01XE)	Other antineoplastic agents (L01X)			L01XE04	L01XE	L01X
+290	suprofen	0		Propionic acid derivatives (M01AE)	Antiinflammatory and antirheumatic products, non-steroids (M01A)			M01AE07	M01AE	M01A
+291	suvorexant	0		Other hypnotics and sedatives (N05CM)	Hypnotics and sedatives (N05C)			N05CM19	N05CM	N05C
+292	tacrine	0	0	Anticholinesterases (N06DA)	Anti-dementia drugs (N06D)			N06DA01	N06DA	N06D
+293	tacrolimus	1	0	Calcineurin inhibitors (L04AD)	Immunosuppressants (L04A)	Immunosuppressant toxicity		L04AD02	L04AD	L04A
+294	tadalafil	0	0	Drugs used in erectile dysfunction (G04BE)	Urologicals (G04B)			G04BE08	G04BE	G04B
+295	tamoxifen	1	1	Anti-estrogens (L02BA)	Hormone antagonists and related agents (L02B)			L02BA01	L02BA	L02B
+296	tasimelteon	0		Melatonin receptor agonists (N05CH)	Hypnotics and sedatives (N05C)			N05CH03	N05CH	N05C
+297	telaprevir	0	0	Antivirals for treatment of HCV infections (J05AP)	Direct acting antivirals (J05A)			J05AP02	J05AP	J05A
+298	telithromycin	0	0	Macrolides (J01FA)	Macrolides, lincosamides and streptogramins (J01F)			J01FA15	J01FA	J01F
+299	telotristat	0		Various alimentary tract and metabolism products (A16AX)	Other alimentary tract and metabolism products (A16A)			A16AX15	A16AX	A16A
+300	temsirolimus	1		Mammalian target of rapamycin (mTOR) kinase inhibitors (L01EG)	Protein kinase inhibitors (L01E)			L01EG01	L01EG	L01E
+301	teniposide	1		Podophyllotoxin derivatives (L01CB)	Plant alkaloids and other natural products (L01C)			L01CB02	L01CB	L01C
+302	terbinafine	0	0	Antifungals for systemic use (D01BA)	Antifungals for systemic use (D01B)			D01BA02	D01BA	D01B
+303	terfenadine	0		Other antihistamines for systemic use (R06AX)	Antihistamines for systemic use (R06A)			R06AX12	R06AX	R06A
+304	teriflunomide	0		Selective immunosuppressants (L04AA)	Immunosuppressants (L04A)			L04AA31	L04AA	L04A
+305	testosterone	0		3-oxoandrosten (4) derivatives (G03BA)	Androgens (G03B)			G03BA03	G03BA	G03B
+306	tetrabenazine	0		Other nervous system drugs (N07XX)	Other nervous system drugs (N07X)			N07XX06	N07XX	N07X
+307	theophylline	1	0	Xanthines (R03DA)	Other systemic drugs for obstructive airway diseases (R03D)			R03DA04	R03DA	R03D
+308	thioridazine	1	0	Phenothiazines with piperidine structure (N05AC)	Antipsychotics (N05A)		Reduced antipsychotic effect	N05AC02	N05AC	N05A
+309	thiotepa	1	0	Ethylene imines (L01AC)	Alkylating agents (L01A)			L01AC01	L01AC	L01A
+310	ticagrelor	0		Platelet aggregation inhibitors excl. heparin (B01AC)	Antithrombotic agents (B01A)			B01AC24	B01AC	B01A
+311	ticlopidine	0	0	Platelet aggregation inhibitors excl. heparin (B01AC)	Antithrombotic agents (B01A)		Reduced anticoagulant effect	B01AC05	B01AC	B01A
+312	timolol	0	0	Beta blocking agents, non-selective (C07AA)	Beta blocking agents (C07A)		Reduced antihypertensive effect	C07AA06	C07AA	C07A
+313	tizanidine	1	0	Other centrally acting agents (M03BX)	Muscle relaxants, centrally acting agents (M03B)			M03BX02	M03BX	M03B
+314	tobacco	0	0	(ZZZZZ)	(ZZZZ)			ZZZZZ09	ZZZZZ	ZZZZ
+315	tofacitinib	0		Selective immunosuppressants (L04AA)	Immunosuppressants (L04A)			L04AA29	L04AA	L04A
+316	tolbutamide	0	0	Sulfonylureas (A10BB)	Blood glucose lowering drugs, excl. insulins (A10B)	Hypoglycemia		A10BB03	A10BB	A10B
+317	tolvaptan	1		Vasopressin antagonists (C03XA)	Other diuretics (C03X)			C03XA01	C03XA	C03X
+318	topiramate	0		Other antiepileptics (N03AX)	Antiepileptics (N03A)			N03AX11	N03AX	N03A
+319	torasemide	0	0	Sulfonamides, plain (C03CA)	High-ceiling diuretics (C03C)			C03CA04	C03CA	C03C
+320	tramadol	0	1	Other opioids (N02AX)	Opioids (N02A)		Reduced analgesic effect	N02AX02	N02AX	N02A
+321	trazodone	0	0	Other antidepressants (N06AX)	Antidepressants (N06A)	Serotonin toxicity		N06AX05	N06AX	N06A
+322	triamterene	0	0	Other potassium-sparing agents (C03DB)	Potassium-sparing agents (C03D)	Hyperkaliemia		C03DB02	C03DB	C03D
+323	triazolam	0	0	Benzodiazepine derivatives (N05CD)	Hypnotics and sedatives (N05C)	Benzodiazepine toxicity	Reduced benzodiazepine effect	N05CD05	N05CD	N05C
+324	trimethoprim	0		Trimethoprim and derivatives (J01EA)	Sulfonamides and trimethoprim (J01E)			J01EA01	J01EA	J01E
+325	tripelennamine	0		Substituted ethylene diamines (R06AC)	Antihistamines for systemic use (R06A)			R06AC04	R06AC	R06A
+326	troglitazone	0	0	Thiazolidinediones (A10BG)	Blood glucose lowering drugs, excl. insulins (A10B)	Hypoglycemia		A10BG01	A10BG	A10B
+327	troleandomycin	0	0	Macrolides (J01FA)	Macrolides, lincosamides and streptogramins (J01F)			J01FA08	J01FA	J01F
+328	tucatinib	0		Human epidermal growth factor receptor 2 (HER2) tyrosine kinase inhibitors (L01EH)	Protein kinase inhibitors (L01E)			L01EH03	L01EH	L01E
+329	umeclidinium	0		Anticholinergics (R03BB)	Other drugs for obstructive airway diseases, inhalants (R03B)			R03BB07	R03BB	R03B
+330	valbenazine	0		Other nervous system drugs (N07XX)	Other nervous system drugs (N07X)			N07XX13	N07XX	N07X
+331	valproate	0	0	Fatty acid derivatives (N03AG)	Antiepileptics (N03A)	Antiepileptic toxicity	Reduced anti-epileptic effect	N03AG01	N03AG	N03A
+332	vandetanib	1		Other protein kinase inhibitors (L01EX)	Protein kinase inhibitors (L01E)			L01EX04	L01EX	L01E
+333	vardenafil	0	0	Drugs used in erectile dysfunction (G04BE)	Urologicals (G04B)			G04BE09	G04BE	G04B
+334	velpatasvir	0		Antivirals for treatment of HCV infections (J05AP)	Direct acting antivirals (J05A)			J05AP55	J05AP	J05A
+335	vemurafenib	1		B-Raf serine-threonine kinase (BRAF) inhibitors (L01EC)	Protein kinase inhibitors (L01E)			L01EC01	L01EC	L01E
+336	venetoclax	1		Other antineoplastic agents (L01XX)	Other antineoplastic agents (L01X)			L01XX52	L01XX	L01X
+337	venlafaxine	0	0	Other antidepressants (N06AX)	Antidepressants (N06A)	Serotonin toxicity		N06AX16	N06AX	N06A
+338	verapamil	0	0	Phenylalkylamine derivatives (C08DA)	Selective calcium channel blockers with direct cardiac effects (C08D)	AV block, bradycardia, hypotension		C08DA01	C08DA	C08D
+339	vilazodone	0		Other antidepressants (N06AX)	Antidepressants (N06A)			N06AX24	N06AX	N06A
+340	vincristine	1	0	Vinca alkaloids and analogues (L01CA)	Plant alkaloids and other natural products (L01C)			L01CA02	L01CA	L01C
+341	vorapaxar	0		Platelet aggregation inhibitors excl. heparin (B01AC)	Antithrombotic agents (B01A)			B01AC26	B01AC	B01A
+342	voriconazole	0	0	Triazole derivatives (J02AC)	Antimycotics for systemic use (J02A)			J02AC03	J02AC	J02A
+343	warfarin	1	0	Vitamin K antagonists (B01AA)	Antithrombotic agents (B01A)	Bleeding		B01AA03	B01AA	B01A
+344	wort	0	0	(ZZZZZ)	(ZZZZ)			ZZZZZ10	ZZZZZ	ZZZZ
+345	zafirlukast	0	0	Leukotriene receptor antagonists (R03DC)	Other systemic drugs for obstructive airway diseases (R03D)			R03DC01	R03DC	R03D
+346	zaleplon	0		Benzodiazepine related drugs (N05CF)	Hypnotics and sedatives (N05C)			N05CF03	N05CF	N05C
+347	zileuton	0	0	(ZZZZZ)	(ZZZZ)			ZZZZZ11	ZZZZZ	ZZZZ
+348	ziprasidone	0		Indole derivatives (N05AE)	Antipsychotics (N05A)			N05AE04	N05AE	N05A
+349	zolmitriptan	0	0	Selective serotonin (5HT1) agonists (N02CC)	Antimigraine preparations (N02C)			N02CC03	N02CC	N02C
+350	zolpidem	0		Benzodiazepine related drugs (N05CF)	Hypnotics and sedatives (N05C)			N05CF02	N05CF	N05C
+351	zuclopenthixol	0		Thioxanthene derivatives (N05AF)	Antipsychotics (N05A)			N05AF05	N05AF	N05A
