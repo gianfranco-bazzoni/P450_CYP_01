@@ -1,0 +1,16 @@
+atc3_S	atc4_S [drugs_S]	atc3_T	atc4_T [drugs_T]	pt_count	ade	CYP(s)
+Antiarrhythmics, class i and iii (C01B)	Antiarrhythmics, class III (C01BD) [amiodarone]	Propulsives (A03F)	Propulsives (A03FA) [domperidone (D),metoclopramide (D)]	12		3A457
+Antiarrhythmics, class i and iii (C01B)	Antiarrhythmics, class III (C01BD) [amiodarone]	High-ceiling diuretics (C03C)	Sulfonamides, plain (C03CA) [torasemide (D)]	9		2C9
+Antiarrhythmics, class i and iii (C01B)	Antiarrhythmics, class III (C01BD) [amiodarone]	Selective calcium channel blockers with direct cardiac effects (C08D)	Benzothiazepine derivatives (C08DB) [diltiazem (D)]	9	AV block, bradycardia, hypotension	3A457
+Antiarrhythmics, class i and iii (C01B)	Antiarrhythmics, class III (C01BD) [amiodarone]	Antipsychotics (N05A)	Diazepines, oxazepines and thiazepines (N05AH) [clozapine (D),olanzapine (D),quetiapine (D)]	8		1A2
+Antiarrhythmics, class i and iii (C01B)	Antiarrhythmics, class III (C01BD) [amiodarone]	Antidepressants (N06A)	Selective serotonin reuptake inhibitors (N06AB) [citalopram (D),escitalopram (D),fluoxetine (D),paroxetine (D)]	16		2D6,3A457
+Antiarrhythmics, class i and iii (C01B)	Antiarrhythmics, class III (C01BD) [amiodarone]	Antidepressants (N06A)	Other antidepressants (N06AX) [trazodone (D),venlafaxine (D)]	6	Serotonin toxicity	3A457
+Antiarrhythmics, class i and iii (C01B)	Antiarrhythmics, class III (C01BD) [amiodarone]	Adrenergics, inhalants (R03A)	Selective beta-2-adrenoreceptor agonists (R03AC) [salmeterol (D)]	28		3A457
+Macrolides, lincosamides and streptogramins (J01F)	Macrolides (J01FA) [clarithromycin]	Drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD) (A02B)	Proton pump inhibitors (A02BC) [lansoprazole (D)]	11		3A457
+Quinolone antibacterials (J01M)	Fluoroquinolones (J01MA) [ciprofloxacin,norfloxacin]	Antidepressants (N06A)	Selective serotonin reuptake inhibitors (N06AB) [citalopram (D),escitalopram (D)]	8		3A457
+Quinolone antibacterials (J01M)	Fluoroquinolones (J01MA) [ciprofloxacin,norfloxacin]	Antidepressants (N06A)	Other antidepressants (N06AX) [duloxetine (D),trazodone (D),venlafaxine (D)]	6	Serotonin toxicity	1A2
+Quinolone antibacterials (J01M)	Fluoroquinolones (J01MA) [ciprofloxacin,norfloxacin]	Adrenergics, inhalants (R03A)	Selective beta-2-adrenoreceptor agonists (R03AC) [salmeterol (D)]	9		3A457
+Antimycotics for systemic use (J02A)	Triazole derivatives (J02AC) [fluconazole,itraconazole,voriconazole]	Adrenergics, inhalants (R03A)	Selective beta-2-adrenoreceptor agonists (R03AC) [salmeterol (D)]	12		3A457
+Antidepressants (N06A)	Selective serotonin reuptake inhibitors (N06AB) [citalopram,escitalopram,fluoxetine,paroxetine,sertraline]	Antiarrhythmics, class i and iii (C01B)	Antiarrhythmics, class Ic (C01BC) [flecainide (D),propafenone (D)]	11	QT interval prolongation	2D6
+Antidepressants (N06A)	Selective serotonin reuptake inhibitors (N06AB) [citalopram,escitalopram,fluoxetine,paroxetine,sertraline]	Antipsychotics (N05A)	Butyrophenone derivatives (N05AD) [haloperidol (D)]	6		1A2,2D6
+Antidepressants (N06A)	Selective serotonin reuptake inhibitors (N06AB) [citalopram,escitalopram,fluoxetine,paroxetine,sertraline]	Anti-dementia drugs (N06D)	Anticholinesterases (N06DA) [donepezil (D)]	11		2D6

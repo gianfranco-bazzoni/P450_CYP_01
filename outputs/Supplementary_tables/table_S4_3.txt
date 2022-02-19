@@ -1,0 +1,3 @@
+atc3_S	atc4_S [drugs_S]	atc3_T	atc4_T [drugs_T]	pt_count	thf	CYP(s)
+Drugs for treatment of tuberculosis (J04A)	Antibiotics (J04AB) [rifampin]	Hypnotics and sedatives (N05C)	Benzodiazepine related drugs (N05CF) [zolpidem (D)]	1		3A457
+Antiepileptics (N03A)	Carboxamide derivatives (N03AF) [carbamazepine]	Antipsychotics (N05A)	Diazepines, oxazepines and thiazepines (N05AH) [clozapine (D)]	1	Reduced antipsychotic effect	1A2

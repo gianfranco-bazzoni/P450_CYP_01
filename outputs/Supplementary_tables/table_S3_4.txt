@@ -1,0 +1,9 @@
+atc3_S	atc4_S [drugs_S]	atc3_T	atc4_T [drugs_T]	Patients	ade	CYPS
+Corticosteroids for systemic use, plain (H02A)	Glucocorticoids (H02AB) [prednisone]	Antithrombotic agents (B01A)	Platelet aggregation inhibitors excl. heparin (B01AC) [clopidogrel]	14		2C19
+Corticosteroids for systemic use, plain (H02A)	Glucocorticoids (H02AB) [prednisone]	Alkylating agents (L01A)	Nitrogen mustard analogues (L01AA) [cyclophosphamide]	3		2C19
+Corticosteroids for systemic use, plain (H02A)	Glucocorticoids (H02AB) [dexamethasone]	Opioids (N02A)	Other opioids (N02AX) [tramadol]	3		2D6
+Antiepileptics (N03A)	Barbiturates and derivatives (N03AA) [phenobarbital]	Antithrombotic agents (B01A)	Platelet aggregation inhibitors excl. heparin (B01AC) [clopidogrel]	7		2C9,3A457
+Antiepileptics (N03A)	Barbiturates and derivatives (N03AA) [phenobarbital]	Lipid modifying agents, plain (C10A)	HMG CoA reductase inhibitors (C10AA) [lovastatin,simvastatin]	7	Myopathy	3A457
+Antiepileptics (N03A)	Carboxamide derivatives (N03AF) [carbamazepine,oxcarbazepine]	Lipid modifying agents, plain (C10A)	HMG CoA reductase inhibitors (C10AA) [lovastatin,simvastatin]	6	Myopathy	3A457
+Antiepileptics (N03A)	Carboxamide derivatives (N03AF) [carbamazepine,oxcarbazepine]	Antithrombotic agents (B01A)	Platelet aggregation inhibitors excl. heparin (B01AC) [clopidogrel]	4		2C19,2C9,3A457
+Blood glucose lowering drugs, excl. insulins (A10B)	Thiazolidinediones (A10BG) [pioglitazone]	Antithrombotic agents (B01A)	Platelet aggregation inhibitors excl. heparin (B01AC) [clopidogrel]	3		3A457

@@ -1,0 +1,4 @@
+atc3_S	atc4_S [drugs_S]	atc3_T	atc4_T [drugs_T]	pt_count	ade	CYP(s)
+Drugs for treatment of tuberculosis (J04A)	Antibiotics (J04AB) [rifampin]	Opioids (N02A)	Other opioids (N02AX) [tramadol (D)]	1		2B6,2D6,3A457
+Antiepileptics (N03A)	Carboxamide derivatives (N03AF) [carbamazepine,oxcarbazepine]	Lipid modifying agents, plain (C10A)	HMG CoA reductase inhibitors (C10AA) [lovastatin (D)]	1	Myopathy	3A457
+Antiepileptics (N03A)	Carboxamide derivatives (N03AF) [carbamazepine]	Opioids (N02A)	Other opioids (N02AX) [tramadol (D)]	1		2B6,3A457

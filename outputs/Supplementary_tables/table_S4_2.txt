@@ -1,0 +1,7 @@
+atc3_S	atc4_S [drugs_S]	atc3_T	atc4_T [drugs_T]	pt_count	thf	CYP(s)
+Quinolone antibacterials (J01M)	Fluoroquinolones (J01MA) [ciprofloxacin,norfloxacin]	Hormone antagonists and related agents (L02B)	Anti-estrogens (L02BA) [tamoxifen (D)]	1		3A457
+Antimycotics for systemic use (J02A)	Triazole derivatives (J02AC) [itraconazole,voriconazole]	Lipid modifying agents, plain (C10A)	HMG CoA reductase inhibitors (C10AA) [lovastatin (D),simvastatin (D)]	1		3A457
+Antipsychotics (N05A)	Butyrophenone derivatives (N05AD) [haloperidol]	Opioids (N02A)	Other opioids (N02AX) [tramadol (D)]	2	Reduced analgesic effect	2D6
+Antidepressants (N06A)	Selective serotonin reuptake inhibitors (N06AB) [citalopram,escitalopram,fluoxetine,paroxetine,sertraline]	Hormone antagonists and related agents (L02B)	Anti-estrogens (L02BA) [tamoxifen (D)]	1		2D6
+Antidepressants (N06A)	Selective serotonin reuptake inhibitors (N06AB) [citalopram,escitalopram,fluoxetine,fluvoxamine,paroxetine,sertraline]	Opioids (N02A)	Other opioids (N02AX) [tramadol (D)]	11	Reduced analgesic effect	2D6
+Antidepressants (N06A)	Non-selective monoamine reuptake inhibitors (N06AA) [clomipramine]	Opioids (N02A)	Other opioids (N02AX) [tramadol (D)]	1	Reduced analgesic effect	2D6
